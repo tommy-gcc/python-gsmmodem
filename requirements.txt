@@ -1,1 +1,7 @@
-pyserial>=2.6
+distlib==0.3.7
+filelock==3.12.2
+inputimeout==1.0.4
+platformdirs==3.9.1
+pyserial==3.5
+python-gsmmodem-new==0.13.0
+virtualenv==20.24.2

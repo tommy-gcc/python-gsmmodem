@@ -21,6 +21,7 @@ test/gsmtermlib
 tools/gsmmodem
 tools/gsmtermlib/gsmmodem
 tools/init
+env
 
 # Unit tests / coverage reports
 .coverage
